@@ -2,7 +2,6 @@
 
 Steps to build a freestyle job in Jenkins-
 
-*As Root*
 ```
 
 1. Create a repository with Java code.
@@ -15,4 +14,4 @@ Steps to build a freestyle job in Jenkins-
 3. Build the Java program with Jenkins and view the console output.
 
 ```
-*As Root*
+
